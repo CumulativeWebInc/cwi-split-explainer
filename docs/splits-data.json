@@ -1,0 +1,330 @@
+{
+  "banner": "INFORMATION ONLY — NOT LEGAL ADVICE. Split and payment facts shown here come from CWI's own records only. A production credit is not a rights-holder record, and an unverified split can never be settled here. For anything you intend to rely on, contact CWI Business Affairs at hp@cumulativeweb.com — a licensed attorney executes.",
+  "built_at": "2026-09-19",
+  "contact": {
+    "email": "hp@cumulativeweb.com",
+    "name": "CWI Business Affairs",
+    "observed_at": "2026-09-15",
+    "role": "Prepares checklists and tracks rights documents. Does NOT draft legal language, file, sign, or certify rights — a licensed attorney and Black execute.",
+    "source": "cwi-company/affairs/rights-gaps.md"
+  },
+  "ethics": "Information only. Never legal advice. Every answer hands off to CWI Business Affairs. Unverifiable questions fail closed — no split percentage is ever guessed.",
+  "global_gaps": {
+    "items": [
+      "Writer / publishing splits — no signed split sheets are on file for ANY CWI track. Split percentages cannot be stated.",
+      "PRO affiliation (ASCAP / BMI / SESAC) — unknown for all works; no publisher IDs or work registration numbers on file.",
+      "ISRC inventory — only some tracks carry distributor-verified ISRCs; public-source conflicts are unresolved and several tracks have none.",
+      "Master-control documentation — no chain-of-title showing CWI/Black controls the masters is on file.",
+      "Sample clearance status — no clearance letters and no sworn no-sample attestations on file for any track."
+    ],
+    "observed_at": "2026-09-15",
+    "source": "cwi-company/affairs/rights-gaps.md"
+  },
+  "product": "Royalty-split explainer (backlog #20)",
+  "royalty_path": [
+    "Email CWI Business Affairs at hp@cumulativeweb.com — state the track, the party you represent, and whether your question concerns the master side, the publishing side, or both.",
+    "Business Affairs prepares a checklist of the documents needed (signed split sheets, PRO affiliations, publisher/work registration numbers, master-control docs). They do not draft legal language or certify rights.",
+    "Writer splits are documented in signed split sheets by the rights holders, executed by a licensed attorney.",
+    "Do not rely on any payment figure until written split documentation is in hand."
+  ],
+  "schema": "cwi.split-explainer/1.0",
+  "tracks": [
+    {
+      "aliases": [
+        "zootedzone"
+      ],
+      "facts": [
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "Writer/publishing splits: UNVERIFIED — splits not cleared by the rights holder. No signed split sheets are on file for this track; split percentages are unknown and cannot be stated.",
+          "tier": "unverified"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "CWI catalog interop index — rights.master_owner: owner_confirmed (self-report), 2026-09-19",
+          "text": "Master ownership: Black states that Cumulative Web Inc controls the master recording (self-reported 2026-09-14). No chain-of-title documentation is on file, so this cannot be independently verified.",
+          "tier": "stated-position"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "DistroKid release dashboard, label-provided screenshot 2026-09-19",
+          "text": "ISRC QZDA52303345 — verified from the DistroKid release dashboard 2026-09-19. Dashboard values are authoritative where public sources differ (Deezer reports QT3FH2549001 for the same audio on the GTA VI EP; discrepancy open, dashboard wins).",
+          "tier": "verified"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "master",
+          "source": "CWI Medium articles (memory import 2026-09-15)",
+          "text": "Production credit on record: produced by Kokurcho; mixed/mastered by Hybrid at his Hagerstown, MD studio; recorded Hagerstown, Feb 2023. A production credit is not a rights-holder record.",
+          "tier": "press-claimed"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "PRO affiliation (ASCAP / BMI / SESAC): unknown — no affiliation, publisher ID, or work registration numbers are on file for this track.",
+          "tier": "missing"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "publishing",
+          "source": "CWI catalog interop index — rights.publisher: null/unverified, 2026-09-19",
+          "text": "Publisher: not on record — no publisher can be named from CWI's records for this track.",
+          "tier": "missing"
+        }
+      ],
+      "spotify_track_id": "0emH8ktA8x4DkOFLsG5xkW",
+      "title": "Zooted Zone"
+    },
+    {
+      "aliases": [
+        "diaboliqu"
+      ],
+      "facts": [
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "Writer/publishing splits: UNVERIFIED — splits not cleared by the rights holder. No signed split sheets are on file for Diabolique; split percentages are unknown and will not be guessed.",
+          "tier": "unverified"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "CWI catalog interop index — rights.master_owner: owner_confirmed (self-report), 2026-09-19",
+          "text": "Master ownership: Black states that Cumulative Web Inc controls the master recording (self-reported 2026-09-14). No chain-of-title documentation is on file, so this cannot be independently verified.",
+          "tier": "stated-position"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "DistroKid release dashboard, label-provided screenshot 2026-09-19",
+          "text": "ISRC QZ8EF2666377 — verified from the DistroKid release dashboard 2026-09-19. Dashboard values are authoritative where public sources differ (Deezer reports QT6EF2666377 for the same single; discrepancy open, dashboard wins).",
+          "tier": "verified"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "master",
+          "source": "Black's 2026-09-15 answers to the article-cleanup questions; MEMORY.md",
+          "text": "Production credit on record: recorded at Cue Recording Studio, Arlington, Virginia — Black's official position (2026-09-15). Hybrid co-produced with Black (single released 2026-07-03). A production credit is not a rights-holder record.",
+          "tier": "press-claimed"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "PRO affiliation (ASCAP / BMI / SESAC): unknown — no affiliation, publisher ID, or work registration numbers are on file for this track.",
+          "tier": "missing"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "publishing",
+          "source": "CWI catalog interop index — rights.publisher: null/unverified, 2026-09-19",
+          "text": "Publisher: not on record — no publisher can be named from CWI's records for this track.",
+          "tier": "missing"
+        }
+      ],
+      "spotify_track_id": "2eSyWmIdPzEMyWejLb2LBj",
+      "title": "Diabolique"
+    },
+    {
+      "aliases": [
+        "flamers",
+        "flamer"
+      ],
+      "facts": [
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "Writer/publishing splits: UNVERIFIED — splits not cleared by the rights holder. No signed split sheets are on file for this track; split percentages are unknown and cannot be stated.",
+          "tier": "unverified"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "CWI catalog interop index — rights.master_owner: owner_confirmed (self-report), 2026-09-19",
+          "text": "Master ownership: Black states that Cumulative Web Inc controls the master recording (self-reported 2026-09-14). No chain-of-title documentation is on file, so this cannot be independently verified.",
+          "tier": "stated-position"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "Deezer public API track endpoint, read 2026-09-19",
+          "text": "ISRC QZMEP2456963 — reported by the Deezer public API 2026-09-19 (seen on the GTA VI EP, The Alternative Theory, and the single). Not distributor-confirmed: if the dashboard shows a different code, the dashboard wins.",
+          "tier": "public-source"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "master",
+          "source": "Black's 2026-09-15 answers; MEMORY.md",
+          "text": "Producer on record: Jeck Da General — Black's confirmed answer to the 2026-09-15 article-cleanup questions. A production credit is not a rights-holder record.",
+          "tier": "press-claimed"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "Black's 2026-09-15 answers; cwi-company/affairs/rights-gaps.md",
+          "text": "Black states he owns the rights to his connected tracks with Jeck Da General. No producer agreement or release documents are on file, so this cannot be independently verified.",
+          "tier": "stated-position"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "PRO affiliation (ASCAP / BMI / SESAC): unknown — no affiliation, publisher ID, or work registration numbers are on file for this track.",
+          "tier": "missing"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "publishing",
+          "source": "CWI catalog interop index — rights.publisher: null/unverified, 2026-09-19",
+          "text": "Publisher: not on record — no publisher can be named from CWI's records for this track.",
+          "tier": "missing"
+        }
+      ],
+      "title": "Flamerz"
+    },
+    {
+      "aliases": [
+        "idoloricon"
+      ],
+      "facts": [
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "Writer/publishing splits: UNVERIFIED — splits not cleared by the rights holder. No signed split sheets are on file for this track; split percentages are unknown and cannot be stated.",
+          "tier": "unverified"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "CWI catalog interop index — rights.master_owner: owner_confirmed (self-report), 2026-09-19",
+          "text": "Master ownership: Black states that Cumulative Web Inc controls the master recording (self-reported 2026-09-14). No chain-of-title documentation is on file, so this cannot be independently verified.",
+          "tier": "stated-position"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "CWI catalog interop index — identity.isrc: null, 2026-09-19",
+          "text": "ISRC: none found in CWI's verified inventory — needs Black's distributor dashboard to confirm.",
+          "tier": "missing"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "master",
+          "source": "cwi-company/affairs/rights-gaps.md; Black's 2026-09-15 answers",
+          "text": "Co-produced with Jeck Da General per CWI records — but the producer agreement / release documents are missing. Business Affairs flags this as a Tier 2 revenue blocker.",
+          "tier": "press-claimed"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "PRO affiliation (ASCAP / BMI / SESAC): unknown — no affiliation, publisher ID, or work registration numbers are on file for this track.",
+          "tier": "missing"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "publishing",
+          "source": "CWI catalog interop index — rights.publisher: null/unverified, 2026-09-19",
+          "text": "Publisher: not on record — no publisher can be named from CWI's records for this track.",
+          "tier": "missing"
+        }
+      ],
+      "title": "Idol or Icon"
+    },
+    {
+      "aliases": [
+        "shakazulu"
+      ],
+      "facts": [
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "Writer/publishing splits: UNVERIFIED — splits not cleared by the rights holder. No signed split sheets are on file for this track; split percentages are unknown and cannot be stated.",
+          "tier": "unverified"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "CWI catalog interop index — rights.master_owner: owner_confirmed (self-report), 2026-09-19",
+          "text": "Master ownership: Black states that Cumulative Web Inc controls the master recording (self-reported 2026-09-14). No chain-of-title documentation is on file, so this cannot be independently verified.",
+          "tier": "stated-position"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "CWI catalog interop index, 2026-09-19 (isrc conflict flagged); MEMORY.md",
+          "text": "ISRC: conflicted — sources disagree on the code for this track. Dashboard values stay authoritative until Black rules on the discrepancy, so no ISRC is stated here.",
+          "tier": "unverified"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "PRO affiliation (ASCAP / BMI / SESAC): unknown — no affiliation, publisher ID, or work registration numbers are on file for this track.",
+          "tier": "missing"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "publishing",
+          "source": "CWI catalog interop index — rights.publisher: null/unverified, 2026-09-19",
+          "text": "Publisher: not on record — no publisher can be named from CWI's records for this track.",
+          "tier": "missing"
+        }
+      ],
+      "title": "Shaka Zulu"
+    },
+    {
+      "aliases": [
+        "dovesanddiamonds",
+        "doves diamonds"
+      ],
+      "facts": [
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "Writer/publishing splits: UNVERIFIED — splits not cleared by the rights holder. No signed split sheets are on file for this track; split percentages are unknown and cannot be stated.",
+          "tier": "unverified"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "CWI catalog interop index — rights.master_owner: owner_confirmed (self-report), 2026-09-19",
+          "text": "Master ownership: Black states that Cumulative Web Inc controls the master recording (self-reported 2026-09-14). No chain-of-title documentation is on file, so this cannot be independently verified.",
+          "tier": "stated-position"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "master",
+          "source": "Deezer public API track endpoint, read 2026-09-19",
+          "text": "ISRC QZTB72282572 — reported by the Deezer public API 2026-09-19 (consistent across the single, NO SKIPS, GTA VI EP, and Post Trap Futurism). Not distributor-confirmed: if the dashboard shows a different code, the dashboard wins.",
+          "tier": "public-source"
+        },
+        {
+          "observed_at": "2026-09-15",
+          "side": "publishing",
+          "source": "cwi-company/affairs/rights-gaps.md",
+          "text": "PRO affiliation (ASCAP / BMI / SESAC): unknown — no affiliation, publisher ID, or work registration numbers are on file for this track.",
+          "tier": "missing"
+        },
+        {
+          "observed_at": "2026-09-19",
+          "side": "publishing",
+          "source": "CWI catalog interop index — rights.publisher: null/unverified, 2026-09-19",
+          "text": "Publisher: not on record — no publisher can be named from CWI's records for this track.",
+          "tier": "missing"
+        }
+      ],
+      "title": "Doves & Diamonds"
+    }
+  ]
+}
